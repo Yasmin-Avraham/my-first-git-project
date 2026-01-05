@@ -2,3 +2,4 @@
 another change
 This change was made on GitHub
 Confl
+Branch says: Red is the best color
