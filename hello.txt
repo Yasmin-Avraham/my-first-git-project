@@ -1,4 +1,4 @@
 "hello, its Yasmin" 
 another change
 This change was made on GitHub
-Conflict
+Confl
