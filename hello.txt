@@ -1,3 +1,5 @@
 "hello, its Yasmin" 
 another change
 This change was made on GitHub
+Confl
+Master says: Blue is the best color
