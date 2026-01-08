@@ -2,4 +2,7 @@
 another change
 This change was made on GitHub
 Confl
+<<<<<<< HEAD
 Master says: Blue is the best color
+=======
+>>>>>>> parent of 9fef168 (Branch prefers red)
